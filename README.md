@@ -1,5 +1,5 @@
 # maxusg
-My own personal data
+My own personal arch setup
 
 
 mirrorlist.txt (arch linux server)
