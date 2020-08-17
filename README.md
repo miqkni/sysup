@@ -1,4 +1,4 @@
-# maxusg
+# Miqkni
 My own personal arch setup
 
 
